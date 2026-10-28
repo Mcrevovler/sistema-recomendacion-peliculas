@@ -10,4 +10,5 @@ CATALOGO = {
     "Alien":        lambda a, c, t, m: y(y(c, t), m),
     "Interstellar": lambda a, c, t, m: c,
     "Coco":         lambda a, c, t, m: no(t),
+    "Shrek":        lambda a, c, t, m: no(t),
 }
